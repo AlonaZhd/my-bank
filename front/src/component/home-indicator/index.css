@@ -1,0 +1,18 @@
+.home-indicator {
+    width: 100%;
+    padding-top: var(--space-20);
+    padding-bottom: var(--space-8);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 5;
+}
+
+.indicator {
+    display: block;
+    margin: 0 auto;
+    width: 134px;
+    height: 5px;
+    border-radius: 100px;
+    background-color: var(--color-black);
+}

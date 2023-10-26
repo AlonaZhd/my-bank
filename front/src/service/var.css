@@ -1,0 +1,24 @@
+* {
+    --color-white: #ffffff;
+    --color-black: #1d1d1f;
+    --color-purple: #775ce5;
+    --grey-text: #939199;
+    --orange-text: #f2883d;
+    --red-text: #f23152;
+
+    --border-12: 12px;
+    --border-24: 24px;
+    --border-48: 48px;
+
+    --space-8: 8px;
+    --space-12: 12px;
+    --space-16: 16px;
+    --space-20: 20px;
+    --space-28: 28px;
+
+    --size-14: 14px;
+    --size-16: 16px;
+    --size-20: 20px;
+    --size-24: 24px;
+    --size-42: 42px;
+}

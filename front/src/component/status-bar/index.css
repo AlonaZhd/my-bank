@@ -1,0 +1,14 @@
+.status-bar {
+    width: 100%;
+    padding: var(--space-16) var(--space-28);
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 5;
+}
+
+.status-bar--icons {
+    display: flex;
+    gap: var(--space-8);
+}
